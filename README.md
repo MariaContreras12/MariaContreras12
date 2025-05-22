@@ -27,13 +27,23 @@
 #### Herramientas  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 
 
 
 ---
+### 📊 Estadísticas de GitHub
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaContreras12&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" alt="GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MariaContreras12&theme=tokyonight" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaContreras12&layout=compact&theme=tokyonight&langs_count=6" alt="Top Langs" />
+</p>
+
+---
 
 
 ### 📫 Contacto
