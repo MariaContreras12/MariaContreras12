@@ -46,6 +46,14 @@
 ---
 
 
+### 📈 Actividad Reciente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaContreras12&theme=tokyo-night&area=true" alt="activity graph" />
+</p>
+
+---
+
 ### 📫 Contacto
 
 - ✉️ mariacontrerasgar11@gmail.com
