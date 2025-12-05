@@ -8,7 +8,7 @@
 
 ---
 
-### 🧑‍💻 Sobre mí
+### 👩‍💻 Sobre mí
 
 - 📍 Desde cucúta, Norte de santander – Colombia 🇨🇴  
 - 👨‍🏫 estudiante amante del software   
@@ -17,17 +17,24 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
 #### Lenguajes  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-
+![☕ Java](https://img.shields.io/badge/%E2%98%95%20Java-F89820?style=flat&logo=java&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 
 #### Herramientas  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![NetBeans](https://img.shields.io/badge/NetBeans-0078C1?style=flat&logo=netbeans&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-45352F?style=flat&logo=dbeaver&logoColor=white)
 
 
 
@@ -61,4 +68,7 @@
 
 ---
 
-<p align="center">Gracias por pasarte por aquí 😊 El software exitoso es aquel que evoluciona con sus usuarios.</p>
+
+
+
+<p align="center">Gracias por estar aquí 😊 Un buen software siempre se adapta y mejora con sus usuarios.</p>
