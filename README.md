@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola!soy Maria de los Angeles Contreras Garcia 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Estudiante+de+Software+💻;Amante+del+C%C3%B3digo+;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Desarrolladora+de+Software+💻;Amante+del+C%C3%B3digo+;Siempre+aprendiendo+algo+nuevo+🚀" alt="Typing SVG" />
 </p>
 
 <p align="center">💡 <em>"Codeo luego existo: cada línea es una clase, cada bug una lección."</em></p>
@@ -23,6 +23,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![☕ Java](https://img.shields.io/badge/%E2%98%95%20Java-F89820?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
